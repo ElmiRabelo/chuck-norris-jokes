@@ -6,8 +6,8 @@ The tecnlogies used was React, React Hooks, Styled Components and axios;
 # Instructions
 
 You must to download the packages necessaries to run the project. Just remember that need to have node installed.
-On your terminal run the code: <br>
+On your terminal run the code after the $ sign: <br>
 $ npm install or $ yarn
 <br>
-Now just run on your terminal again the following code:<br>
+Now just run on your terminal again the following code after the $ sign:<br>
 $ npm run start or $ yarn start
