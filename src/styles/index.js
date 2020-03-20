@@ -13,6 +13,8 @@ const GlobalStyles = createGlobalStyle`
 
   body {
     padding: 20px;
+    height: 100vh;
+    background-color: #DCD9D4; 
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -25,7 +27,8 @@ export const colors = {
   secondary: "#6347ff",
   auxiliar: "#ff4787",
   dark: "#110111",
-  lighter: "#fff"
+  lighter: "#fff",
+  grey: "#ccc"
 };
 
 export default GlobalStyles;
